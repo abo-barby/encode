@@ -13,7 +13,7 @@
 
 ```bash
 apt install git python -y
-git clone https://github.com/htr-tech/PyObfuscate.git
+git clone https://github.com/abo-barby/encode.git
 cd PyObfuscate
 python encode.py
 ```
